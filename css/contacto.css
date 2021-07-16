@@ -1,0 +1,9 @@
+.contacto .espacio.direccion .espacio-desc{
+    max-width: 200px;
+}
+
+@media screen and ( min-width: 1224px ){
+    .contacto .espacio.direccion .espacio-desc{
+        max-width: 300px;
+    }
+}
