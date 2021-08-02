@@ -37,7 +37,8 @@ img{
     max-width: 100%;
 }
 .container{
-    max-width: 90%;
+    width: 90%;
+    max-width: 1440px;
     margin: 0 auto;
 }
 .btn-secondary{
@@ -71,10 +72,10 @@ img{
 
 /*============== ANIMACIONES ============ */
 
-/* .traslation{
+.traslation{
     transform: translateY(20px);
     opacity: 0;
-} */
+}
 
 .traslation-fast{
     animation-name: trasladar;
