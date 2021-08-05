@@ -29,7 +29,8 @@
     padding: 0;
     overflow: hidden;
 
-    transition: .5s all;   
+    transition: .5s all;
+    z-index: 1;
 }
 .nav.toggle-nav{
     padding: 34px 0;
